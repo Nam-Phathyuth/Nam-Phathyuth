@@ -4,7 +4,7 @@
 ```python
 class yuth:
   def __init__(yuth):
-    yuth.name = 'Phathyuth'
+    yuth.name = 'Phatyuth'
     yuth.age = 19
     yuth.lang = ['C','Python']
     yuth.tools = ['django']
