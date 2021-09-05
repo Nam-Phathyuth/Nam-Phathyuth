@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Nam-Phathyuth
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Backend Project
-- 📫 How to reach me phatyuth666@gmail.com
+<h1 align="center">Hi 👋, I'm Yuth!!</h1>
+<h3 align="center">A bit about me :)</h3>
 
-<!---
-Nam-Phathyuth/Nam-Phathyuth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```python
+class yuth:
+  def __init__(yuth):
+    yuth.name = 'Phathyuth'
+    yuth.age = 19
+    yuth.lang = ['C','Python']
+    yuth.tools = ['django']
+ 
+    
+```
+
+
