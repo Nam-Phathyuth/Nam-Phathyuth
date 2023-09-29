@@ -1,6 +1,7 @@
-<p align="center" markdown="1">
+<p align="center">
   <img src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif" alt="gif" width="30%" />
 </p>
+<br/>
 
 ## About Me
 - Like learning new tech
