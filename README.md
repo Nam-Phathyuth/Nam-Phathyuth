@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif" alt="gif" height="20%" width="20%" />
+  <img src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif" alt="gif" width="20%" />
 </p>
