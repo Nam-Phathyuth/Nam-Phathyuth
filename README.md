@@ -52,7 +52,7 @@ Backend developer transforming coffee into code and bugs into features since und
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://media.tenor.com/i3lJJOF0VpYAAAAC/stonks-up-stongs.gif" width="400"/>
+  <img src="https://media1.tenor.com/m/47ZSDEj2n7AAAAAC/stonks-stonk.gif" width="400"/>
   <p><i>"My contribution graph would go here, but it's too hot to display"</i></p>
 </div>
 
@@ -61,13 +61,8 @@ Backend developer transforming coffee into code and bugs into features since und
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://kh.linkedin.com/in/phathyuth-nam-50ba55220)
 [![Gitlab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Nam-Phathyuth)
 
-<div align="center">
-  <img src="https://media.tenor.com/BMM8l-NJT78AAAAd/dont-forget-to-like-and-subscribe-youtube.gif" width="350"/>
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/b-6uBpFW64sAAAAd/cat-computer.gif" width="400"/>
   <p><i>This README was last updated while procrastinating on actual work</i></p>
 </div>
