@@ -8,7 +8,7 @@
   <img src="https://media1.tenor.com/m/PshaXsSgKdEAAAAC/programming.gif" width="300"/>
 </div>
 
-## 💫 About Me: The Chaos Developer
+## 💫 About Me: Certified Code Alchemis
 
 > "The only code without bugs is the code you haven't written yet." - Me, probably
 
@@ -18,6 +18,7 @@ Backend developer transforming coffee into code and bugs into features since und
 <img src="https://media1.tenor.com/m/GiUbb4qg_vwAAAAC/csharp-cat-programmer.gif" width="150" align="right"/>
 
 - 🚀 Building highly available systems so they can crash in **style**
+- Building Enterprise grade system with **DDD Pattern** (Definitely Dumb Decisions Pattern)
 - 🔭 Currently surviving on **stackoverflow** and **caffeine**
 - 🌱 My git commit history is just variations of "it works, don't touch"
 - 💬 Ask me about how I fixed that bug (spoiler: I restarted the server)
@@ -36,12 +37,12 @@ Backend developer transforming coffee into code and bugs into features since und
 
 ## 📚 Current Side Quests
 
-- 🏗️ Mastering **distributed systems & microservices** <img src="https://media.tenor.com/NJVFjOYEcsIAAAAC/thinking-hmm.gif" width="70" align="center"/>
-- 🔥 Tuning databases for maximum speed (gotta go fast 💨) <img src="https://media1.tenor.com/m/7hJpFtl63HQAAAAC/sanic-the-hedgehob.gif" width="50" align="center"/>
+- 🏗️ Mastering **distributed systems & microservices** (more like scattered systems and unemportant services) <img src="https://media.tenor.com/NJVFjOYEcsIAAAAC/thinking-hmm.gif" width="70" align="center"/>
+- 🔥 Tuning databases for maximum speed (gotta go FTL 💨) <img src="https://media1.tenor.com/m/7hJpFtl63HQAAAAC/sanic-the-hedgehob.gif" width="50" align="center"/>
 - 🐹 Learning **Go** because why not add another language to my chaotic brain  <img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" width="70" align="right"/>
  <img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" width="70" align="center"/>
 
-## 🎭 When I'm Not Coding
+## 🎭 Off-Work Shenanigans
 
 - 🎵 Jamming to lo-fi while debugging <img src="https://media.tenor.com/7OPHvaC2NG0AAAAi/calm-spring.gif" width="70" align="right"/>
 - 🎮 Clicking heads in FPS games <img src="https://media1.tenor.com/m/Z1UwwyvuYl0AAAAd/triples-soomin.gif" width="70" align="center"/>
