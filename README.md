@@ -19,7 +19,7 @@ Backend developer transforming coffee into code and bugs into features since und
 
 - 🚀 Building highly available systems so they can crash in **style**
 - Building Enterprise grade system with **DDD Pattern** (Definitely Dumb Decisions Pattern)
-- 🔭 Currently surviving on **stackoverflow** and **caffeine**
+- Workflow? git commit -> git push -> shift blame
 - 🌱 My git commit history is just variations of "it works, don't touch"
 - 💬 Ask me about how I fixed that bug (spoiler: I restarted the server)
 - ⚡ Fun fact: My first program was "Hello World"... and it had bugs
