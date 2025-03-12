@@ -10,7 +10,7 @@
 
 ## 💫 About Me: Certified Code Alchemis
 
-> "The only code without bugs is the code you haven't written yet." - Me, probably
+> "The only code without bugs is the code you haven't written yet." - Me, prolly
 
 <img src="https://media.tenor.com/I3RjM4xQO0kAAAAi/windows-error.gif" width="200" align="left"/>
 Backend developer turning caffeine into code and minor typos into full-blown outages. Breaking production with a single commit since the dawn of time. When I’m not debugging bugs I created, I’m busy overengineering solutions for problems that don’t even exist... yet. 🚀🔥
@@ -36,10 +36,9 @@ Backend developer turning caffeine into code and minor typos into full-blown out
 
 ## 📚 Current Side Quests
 
-- 🏗️ Mastering **distributed systems & microservices** (more like scattered systems and unemportant services) <img src="https://media.tenor.com/NJVFjOYEcsIAAAAC/thinking-hmm.gif" width="70" align="center"/>
-- 🔥 Tuning databases for maximum speed (gotta go FTL 💨) <img src="https://media1.tenor.com/m/7hJpFtl63HQAAAAC/sanic-the-hedgehob.gif" width="50" align="center"/>
-- 🐹 Learning **Go** because why not add another language to my chaotic brain  <img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" width="70" align="right"/>
- <img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" width="70" align="center"/>
+- 🏗️ Mastering **distributed systems & microservices** (more like scattered systems and unemportant services)
+- 🔥 Tuning databases for maximum speed (gotta go FTL 💨)
+- 🐹 Learning **Go** because why not add another language to my chaotic brain
 
 ## 🎭 Off-Work Shenanigans
 
