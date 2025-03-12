@@ -36,14 +36,14 @@ Backend developer turning caffeine into code and minor typos into full-blown out
 
 ## 📚 Current Side Quests
 
-- 🏗️ Mastering **distributed systems & microservices** (more like scattered systems and unemportant services)
+- 🏗️ Mastering distributed systems & microservices (aka scattering services like confetti and hoping for the best)
 - 🔥 Tuning databases for maximum speed (gotta go FTL 💨)
 - 🐹 Learning **Go** because why not add another language to my chaotic brain
 
 ## 🎭 Off-Work Shenanigans
 
-- 🎵 Jamming to lo-fi while debugging <img src="https://media.tenor.com/7OPHvaC2NG0AAAAi/calm-spring.gif" width="70" align="right"/>
-- 🎮 Clicking heads in FPS games <img src="https://media1.tenor.com/m/Z1UwwyvuYl0AAAAd/triples-soomin.gif" width="70" align="center"/>
+- 🎵 Jamming to lo-fi while debugging 
+- 🎮 Clicking heads in FPS games 
 - 📚 Reading light novels instead of documentation 
 - 🤪 Finding new ways to avoid writing proper comments 
 - 💤 Debugging in my dreams because the solution only comes when I'm not looking for it 
