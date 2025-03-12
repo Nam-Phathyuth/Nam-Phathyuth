@@ -13,8 +13,7 @@
 > "The only code without bugs is the code you haven't written yet." - Me, probably
 
 <img src="https://media.tenor.com/I3RjM4xQO0kAAAAi/windows-error.gif" width="200" align="left"/>
-Backend developer transforming coffee into code and bugs into features since undefined. When I'm not breaking production with a single commit, I'm busy overengineering solutions to problems that don't exist yet.
-
+Backend developer turning caffeine into code and minor typos into full-blown outages. Breaking production with a single commit since the dawn of time. When I’m not debugging bugs I created, I’m busy overengineering solutions for problems that don’t even exist... yet. 🚀🔥
 <img src="https://media1.tenor.com/m/GiUbb4qg_vwAAAAC/csharp-cat-programmer.gif" width="150" align="right"/>
 
 - 🚀 Building highly available systems so they can crash in **style**
