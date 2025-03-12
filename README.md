@@ -17,11 +17,11 @@ Backend developer turning caffeine into code and minor typos into full-blown out
 <img src="https://media1.tenor.com/m/GiUbb4qg_vwAAAAC/csharp-cat-programmer.gif" width="150" align="right"/>
 
 - 🚀 Building highly available systems so they can crash in **style**
-- Building Enterprise grade system with **DDD Pattern** (Definitely Dumb Decisions Pattern)
+- Enterprise-grade architecture using the DDD Pattern (Definitely Dumb Decisions Pattern)
 - Workflow? git commit -> git push -> shift blame
 - 🌱 My git commit history is just variations of "it works, don't touch"
 - 💬 Ask me about how I fixed that bug (spoiler: I restarted the server)
-- ⚡ Fun fact: My first program was "Hello World"... and it had bugs
+- ⚡ Fun fact: My first program was "Hello, World!"… and it had 3 CVEs, a memory leak, and a race condition 💀🔥
 
 ## 🛠️ Tech Stack: Weapons of Mass Deployment
 
