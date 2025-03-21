@@ -17,7 +17,7 @@ Backend developer turning caffeine into code and minor typos into full-blown out
 <img src="https://media1.tenor.com/m/GiUbb4qg_vwAAAAC/csharp-cat-programmer.gif" width="150" align="right"/>
 
 - 🚀 Building highly available systems so they can crash in **style**
-- Enterprise-grade architecture using the DDD Pattern (Definitely Dumb Decisions Pattern)
+- 🏗️ Engineering enterprise-grade architecture using the DDD Pattern (Dubious Design Decisions).
 - Workflow? git commit -> git push -> blame frontend
 - 🌱 My git commit history is just variations of "it works, don't touch"
 - 💬 Ask me about how I fixed that bug (spoiler: I restarted the server)
