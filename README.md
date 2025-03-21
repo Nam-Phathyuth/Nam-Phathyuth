@@ -18,7 +18,7 @@ Backend developer turning caffeine into code and minor typos into full-blown out
 
 - 🚀 Building highly available systems so they can crash in **style**
 - Enterprise-grade architecture using the DDD Pattern (Definitely Dumb Decisions Pattern)
-- Workflow? git commit -> git push -> shift blame
+- Workflow? git commit -> git push -> blame frontend
 - 🌱 My git commit history is just variations of "it works, don't touch"
 - 💬 Ask me about how I fixed that bug (spoiler: I restarted the server)
 - ⚡ Fun fact: My first program was "Hello, World!"… and it had 3 CVEs, a memory leak, and a race condition 💀🔥
