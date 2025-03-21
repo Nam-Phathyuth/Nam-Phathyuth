@@ -22,7 +22,7 @@ Backend developer turning caffeine into code and minor typos into full-blown out
 - 🌱 My git commit history is just variations of "it works, don't touch"
 - 💬 Ask me about how I fixed that bug (spoiler: I restarted the server)
 - ⚡ Fun fact: My first program was "Hello, World!"… and it had 3 CVEs, a memory leak, and a race condition 💀🔥
-- 🦆 **Professional** rubber duck debugger (I am the duck)
+- 🦆 **Professional** rubber duck debugger—except I am the rubber duck, and I will quack at your code until it works.
 
 ## 🛠️ Tech Stack: Weapons of Mass Deployment
 
